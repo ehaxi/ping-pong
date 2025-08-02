@@ -3,6 +3,13 @@
 🔹 **Brief Description**  
 This project is a classic Pong game implemented in the terminal using the ncurses library. It offers a simple yet engaging two-player experience, where players control paddles to hit a ball and score points. The game features real-time controls, a scoreboard, and a winner announcement upon reaching 21 points.  
 
+## Why This Stands Out to Employer:  
+- **Low-Level Proficiency**: Demonstrates strong C programming skills and efficient use of ncurses for terminal-based UI development.  
+- **Game Logic Implementation**: Showcases clean implementation of real-time physics (ball movement, collision detection) and game state management.  
+- **Interactive Design**: Features responsive two-player controls with intuitive keyboard inputs and real-time rendering.  
+- **Modular Architecture**: Well-organized code structure with separated display, logic and control systems for easy maintenance.  
+- **Lightweight Performance**: Optimized rendering cycle with minimal resource usage, suitable for terminal environments.  
+
 ## 🛠️ Technologies  
 - **Language**: C  
 - **Library**: ncurses (for terminal-based UI and input handling)  
